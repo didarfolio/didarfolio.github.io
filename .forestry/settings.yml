@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _Portfolio
+  path: _portfolio
   label: PortFolio
 - type: jekyll-posts
   label: Posts
